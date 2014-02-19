@@ -1,5 +1,5 @@
 {
-  "name": "Jquery-dom",
+  "name": "jquery-dom",
   "author": "Oleksandr Knyga <oleksandrknyga@gmail.com>",
   "description": "Wrapper on jsdom that includes jquery libary and promises",
   "version": "0.0.1",
@@ -32,7 +32,7 @@
     "parse",
     "grab",
     "get",
-    "post"
+    "post",
     "w3c",
     "html"
   ],
