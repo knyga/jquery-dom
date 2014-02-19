@@ -1,0 +1,40 @@
+{
+  "name": "Jquery-dom",
+  "author": "Oleksandr Knyga <oleksandrknyga@gmail.com>",
+  "description": "Wrapper on jsdom that includes jquery libary and promises",
+  "version": "0.0.1",
+  "homepage": "https://github.com/knyga/jquery-dom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knyga/jquery-dom"
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/knyga/jquery-dom/issues"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "scripts": {
+    "test": "echo \"Look for example\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "promises",
+    "promise",
+    "jsdom",
+    "dom",
+    "parse",
+    "grab",
+    "get",
+    "post"
+    "w3c",
+    "html"
+  ],
+  "license": "Apache License, Version 2.0"
+}
